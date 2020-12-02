@@ -7,3 +7,5 @@ This repository will include:
 * `common dataframe manipulations`
 
 This will help you with tasks needed to get you on your journey of Python
+
+[Linear Algebra Course with materials](http://mitran-lab.amath.unc.edu/courses/MATH547ML/MATH547DS.xhtml)
