@@ -5,6 +5,7 @@ This repository will include:
 * `scipy`
 * `sklearn` 
 * `common dataframe manipulations`
+* `Memory Usuage Considerations`
 
 This will help you with tasks needed to get you on your journey of Python
 
